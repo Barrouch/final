@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: d4253c6903b27a443b66a65ecefc36aa
+  - enabled: 1
+    path: Assets/Scenes/levels.unity
+    guid: 5c625aa2cf887914ba52da1b6649d9f7
+  - enabled: 1
+    path: Assets/Scenes/grotte_1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/grotte_2.unity
+    guid: d4e5ee3ee179cdd4ea68f3d8180824cd
+  - enabled: 1
+    path: Assets/Scenes/grotte_3.unity
+    guid: 6dfbecfa1876ce24ea34a327f55793c5
+  - enabled: 1
+    path: Assets/Scenes/forest_1.unity
+    guid: 5da89b7d0c460d64fb69d2737f15fb7a
+  - enabled: 1
+    path: Assets/Scenes/temple_1.unity
+    guid: cfde939366d4a76439c2f5714010df2a
+  m_configObjects: {}
